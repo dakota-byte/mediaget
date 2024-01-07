@@ -16,7 +16,5 @@ for tiktok, instagram, and youtube respectively
 ## installation
 
 1. clone this repo
-2. cp dget.sh /usr/local/bin
-3. all scripts are expected to be in /home/*/Downloads/dakotamediaget
-4. chmod +x /usr/local/bin/dget.sh
-5. run a command
+2. update the file paths of scripts and download spaces
+3. ./dget.sh ...
