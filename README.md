@@ -3,7 +3,9 @@ shell script for downloading quality tiktok, instagram, and youtube content. not
 
 recommend using a virtual environment.
 
-tiktok installation uses selenium to open a chrome browser. uses default chrome driver.
+uses selenium to open a chrome browser. automates some of the tedious work of going to websites
+
+uses default chrome driver.
 
 ## usage
 
