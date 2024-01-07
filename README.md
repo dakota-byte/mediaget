@@ -7,6 +7,8 @@ uses selenium to open a chrome browser. automates some of the tedious work of go
 
 uses default chrome driver.
 
+not optimized
+
 ## usage
 
 - dget -t [url]
